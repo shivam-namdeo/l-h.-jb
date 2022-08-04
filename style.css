@@ -1,0 +1,61 @@
+.heading
+
+{
+    font-size: 23px;
+
+    width: 100%;
+
+    margin: 0px;
+
+    box-shadow: 5px 5px 5px rgb(0, 247, 255);
+}
+
+.note
+
+{
+
+font-size: 15px;
+
+color: rgb(189, 255, 7);
+
+}
+
+.footer
+
+{
+    position: fixed;
+
+    color: rgba(255, 0, 89, 0.263);
+
+    background-color: rgb(201, 168, 255);
+
+    bottom: 0;
+
+    width: 100%;
+
+    text-align: center;
+
+    line-height: 3;
+}
+
+canvas
+
+{
+
+border: 5px solid rgb(168, 58, 46);
+
+border-radius: 20px;
+
+box-shadow: 5px 5px 5px cadetblue;
+
+}
+
+footer
+
+{
+
+    font-size: 20px;
+
+    color: black;
+
+}
